@@ -1,7 +1,7 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
-	author: "nobody",
+	name: "The Infinity Tree",
+	id: "theinfinitytreeid",
+	author: "Minerafou",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
@@ -19,8 +19,7 @@ let VERSION = {
 
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
-		- Added things.<br>
-		- Added stuff.`
+		-Just the start`
 
 let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
 
